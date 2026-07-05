@@ -69,3 +69,4 @@
 {"level":"info","message":"::1 - - [04/Jul/2026:23:56:30 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 104 \"-\" \"HTTPie\"","service":"acquisitions-api"}
 {"level":"info","message":"User logged out","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [04/Jul/2026:23:56:35 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 29 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [05/Jul/2026:00:30:24 +0000] \"GET /health HTTP/1.1\" - - \"-\" \"HTTPie\"","service":"acquisitions-api"}
